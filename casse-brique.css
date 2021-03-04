@@ -1,0 +1,13 @@
+  /*definit autour du SVG un cadre noir*/
+  svg { 
+border:4px solid black; 
+border-color : green;
+
+  
+  }
+  #bar { 
+  fill:green; 
+  stroke:none; 
+
+  }
+  h1 { display:none; }
